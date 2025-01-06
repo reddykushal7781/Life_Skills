@@ -35,4 +35,13 @@ The key points mentioned in the video are:
 
 Building the Growth mindset is very much essential for a good software developer(like me). Because he should be enthusiastic about learning new things, which is very much useful for a good career in software industry.
 
-When ever I learn a new thing, I learn it 100%. That is I can explain it toany one to the core of it. This helps me building confidence and make tommorow more interesting and easy.  
+When ever I learn a new thing, I learn it 100%. That is I can explain it toany one to the core of it. This helps me building confidence and make tommorow more interesting and easy.
+
+
+# References
+
+* [youtube_1](https://www.youtube.com/watch?v=H14bBuluwB8)
+* [youtube_2](https://www.youtube.com/watch?v=75GFzikmRY0)
+* [youtube_3](https://www.youtube.com/watch?v=8ZhoeSaPF-k)
+* [youtube_4](https://www.youtube.com/watch?v=9DVdclX6NzY)
+* [google_doc](https://docs.google.com/document/d/1SPUqC-8WwfiDlsRGKWqoMtC14v6_2TEhq7LZs29bJWk)
